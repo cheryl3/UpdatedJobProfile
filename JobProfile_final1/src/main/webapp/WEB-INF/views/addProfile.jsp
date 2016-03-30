@@ -9,7 +9,7 @@
 <title>Add Job Profile</title>
 </head>
 <body>
-<form:form method="POST"  modelAttribute="profileBean" action="saveProfile">
+<form:form method="POST"   action="saveProfile">
 	<h2><u>Job Details</u></h2>
 		<table>
 	 	<%-- 
